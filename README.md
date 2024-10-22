@@ -1,4 +1,4 @@
-# 19CS415-Pseudorandom-Number-Generation
+# EX-6-Pseudorandom-Number-Generation
 ## AIM:
 To implement the Pseudorandom Number Generator Using C.
 ## Algorithm:
